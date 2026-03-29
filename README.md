@@ -87,31 +87,7 @@ data-driven decision making and business intelligence.
 
 🌐 [www.codealpha.tech](https://www.codealpha.tech)
 
----
-
-## 📞 Connect With Me
-- 💼 LinkedIn: [# 📊 CodeAlpha Data Analytics Internship
-
 > Internship projects completed as part of the Data Analytics program at **CodeAlpha**.
-
----
-
-## 👩‍💻 Intern Details
-- **Name:** Harshini Bolla
-- **Domain:** Data Analytics
-- **Company:** CodeAlpha
-- **Duration:** March 2026
----
-
-## 📸 Output Screenshots
-
-| Task | Output |
-|------|--------|
-| Task 1 | Books data scraped and saved to CSV |
-| Task 2 | EDA charts — univariate, bivariate, correlation |
-| Task 3 | 9-chart dashboard + interactive Plotly HTML |
-| Task 4 | Sentiment dashboard + live predictions |
-
 ---
 
 ## 🏢 About CodeAlpha
