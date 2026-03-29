@@ -99,6 +99,6 @@ data-driven decision making and business intelligence.
 
 
 ## 📞 Connect With Me
-- 💼 LinkedIn: [your linkedin profile link]
+- 💼 LinkedIn: [www.linkedin.com/in/harshinibolla]
 - 🐙 GitHub: [github.com/harshinibolla10](https://github.com/harshinibolla10)
 
